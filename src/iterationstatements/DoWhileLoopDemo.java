@@ -19,6 +19,7 @@ public class DoWhileLoopDemo {
         do {
             System.out.println(k);// print the even numbers
             k += 2; // move to the next even number
+            //k = k+2;
         } while (k <= 10); // condition
 
         // print odd number 1 to 10
